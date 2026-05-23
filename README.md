@@ -1,5 +1,7 @@
 # Pict Panel
 
+> **[&#9654; Read the Pict-Panel Documentation](https://stevenvelozo.github.io/pict-panel/)** &mdash; interactive docs with the full API reference.
+
 [![Coverage Status](https://coveralls.io/repos/github/stevenvelozo/pict-panel/badge.svg?branch=main)](https://coveralls.io/github/stevenvelozo/pict-panel?branch=main)
 [![Build Status](https://github.com/stevenvelozo/pict-panel/workflows/Tests/badge.svg)](https://github.com/stevenvelozo/pict-panel/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

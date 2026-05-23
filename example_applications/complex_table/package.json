@@ -9,6 +9,14 @@
     },
     "author": "steven",
     "license": "MIT",
+    "retold": {
+        "ExampleApplication": {
+            "Stage": true,
+            "Title": "Complex Table",
+            "Summary": "Rich pict-section-form host with sections, tabular layout, solvers, pick lists, and entity-bundle autofill - a dense target for inspecting with Pict Panel.",
+            "Complexity": "Intermediate"
+        }
+    },
     "devDependencies": {},
     "copyFilesSettings": {
         "whenFileExists": "overwrite"

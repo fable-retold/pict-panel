@@ -11,3 +11,9 @@
 [Architecture](architecture.md)
 [Template Overrides](overrides.md)
 [GitHub](https://github.com/stevenvelozo/pict-panel)
+
+<!-- docuserve:examples:start -->
+| Example | Complexity | Launch |
+|---------|------------|--------|
+| [Complex Table](examples/complex%5Ftable/README.md) | Intermediate | [&#9654; Launch](examples/complex%5Ftable/index.html) |
+<!-- docuserve:examples:end -->

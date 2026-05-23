@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-22T05:43:04.897Z",
+	"Generated": "2026-05-23T01:50:42.523Z",
 	"Mode": "module",
 	"GitHubOrg": "stevenvelozo",
 	"DefaultBranch": "master",
@@ -46,31 +46,40 @@
 				]
 			},
 			{
+				"Title": "Examples",
+				"Children": [
+					{
+						"Title": "Complex Table",
+						"Path": "examples/complex_table/README.md"
+					}
+				]
+			},
+			{
 				"Title": "Retold Ecosystem",
 				"Children": [
 					{
 						"Title": "Pict",
-						"Path": "pict/pict/README.md"
+						"Path": "https://stevenvelozo.github.io/pict/README.md"
 					},
 					{
 						"Title": "Pict View",
-						"Path": "pict/pict-view/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-view/README.md"
 					},
 					{
 						"Title": "Pict Provider",
-						"Path": "pict/pict-provider/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-provider/README.md"
 					},
 					{
 						"Title": "Pict Template",
-						"Path": "pict/pict-template/README.md"
+						"Path": "https://stevenvelozo.github.io/pict-template/README.md"
 					},
 					{
 						"Title": "Fable",
-						"Path": "fable/fable/README.md"
+						"Path": "https://stevenvelozo.github.io/fable/README.md"
 					},
 					{
 						"Title": "Fable Service Base",
-						"Path": "fable/fable-serviceproviderbase/README.md"
+						"Path": "https://stevenvelozo.github.io/fable-serviceproviderbase/README.md"
 					}
 				]
 			}
@@ -84,6 +93,10 @@
 			"_topbar.md",
 			"_version.json",
 			"architecture.md",
+			"examples/README.md",
+			"examples/complex_table/README.md",
+			"examples/complex_table/complex_tabular_application.js",
+			"examples/complex_table/index.html",
 			"hotloading.md",
 			"index.html",
 			"overrides.md",

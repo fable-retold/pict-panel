@@ -6,4 +6,4 @@
 - [Views](views.md)
 - [Providers](providers.md)
 - [Template Overrides](overrides.md)
-- [GitHub](https://github.com/stevenvelozo/pict-panel)
+- [GitHub](https://github.com/fable-retold/pict-panel)

@@ -1,9 +1,9 @@
 # Pict Panel
 
-> **[&#9654; Read the Pict-Panel Documentation](https://stevenvelozo.github.io/pict-panel/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Pict-Panel Documentation](https://fable-retold.github.io/pict-panel/)** &mdash; interactive docs with the full API reference.
 
 [![Coverage Status](https://coveralls.io/repos/github/stevenvelozo/pict-panel/badge.svg?branch=main)](https://coveralls.io/github/stevenvelozo/pict-panel?branch=main)
-[![Build Status](https://github.com/stevenvelozo/pict-panel/workflows/Tests/badge.svg)](https://github.com/stevenvelozo/pict-panel/actions)
+[![Build Status](https://github.com/fable-retold/pict-panel/workflows/Tests/badge.svg)](https://github.com/fable-retold/pict-panel/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -119,11 +119,11 @@ npm run coverage
 
 ## Related Packages
 
-- [pict](https://github.com/stevenvelozo/pict) - MVC application framework
-- [pict-view](https://github.com/stevenvelozo/pict-view) - View base class
-- [pict-provider](https://github.com/stevenvelozo/pict-provider) - Data provider base class
-- [pict-template](https://github.com/stevenvelozo/pict-template) - Template engine
-- [fable](https://github.com/stevenvelozo/fable) - Core service ecosystem
+- [pict](https://github.com/fable-retold/pict) - MVC application framework
+- [pict-view](https://github.com/fable-retold/pict-view) - View base class
+- [pict-provider](https://github.com/fable-retold/pict-provider) - Data provider base class
+- [pict-template](https://github.com/fable-retold/pict-template) - Template engine
+- [fable](https://github.com/fable-retold/fable) - Core service ecosystem
 
 ## License
 

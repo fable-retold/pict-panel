@@ -10,7 +10,7 @@
 [Get Started](README.md)
 [Architecture](architecture.md)
 [Template Overrides](overrides.md)
-[GitHub](https://github.com/stevenvelozo/pict-panel)
+[GitHub](https://github.com/fable-retold/pict-panel)
 
 <!-- docuserve:examples:start -->
 | Example | Complexity | Launch |
